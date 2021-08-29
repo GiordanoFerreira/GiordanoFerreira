@@ -14,6 +14,5 @@
   <img align="right" alt="Gior-luffy" src="https://c.tenor.com/yFKbJFsOvs4AAAAM/luffy-smile-luffy-giggle.gif">
 </div>
   
-<div>
-   ![Snake animation](https://github.com/GiordanoFerreira/GiordanoFerreira/blob/output/github-contribution-grid-snake.svg)
-</div>
+![Snake animation](https://github.com/GiordanoFerreira/GiordanoFerreira/blob/output/github-contribution-grid-snake.svg)
+
