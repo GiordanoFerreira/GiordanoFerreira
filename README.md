@@ -1,7 +1,7 @@
 ## Oi, eu sou o Giordano 🧑🏻
 
 - 🇧🇷
-- 🐍 Atualmente estudando Python
+- Atualmente estudando Python e Java
 
 <div>
   <a href="https://github.com/GiordanoFerreira">
