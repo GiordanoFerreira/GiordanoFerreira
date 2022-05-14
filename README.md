@@ -2,7 +2,7 @@
 
 - 🇧🇷
 - 🧑‍🎓 Estudante de Sistemas de Informação
-- 💻 Atualmente estudando Python e Java
+- Estagiário QA
 
 ##
 
