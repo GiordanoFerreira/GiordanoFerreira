@@ -2,7 +2,6 @@
 
 - 🇧🇷
 - 🧑‍🎓 Estudante de Sistemas de Informação
-- Estagiário QA
 
 ##
 
