@@ -2,6 +2,8 @@
 
 - 🇧🇷
 - 🧑‍🎓 Estudante de Sistemas de Informação
+- ☕ Java  
+- 🍃 Desenvolvedor Back-end Spring
 
 ##
 
