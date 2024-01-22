@@ -4,6 +4,7 @@
 - 🧑‍🎓 Estudante de Sistemas de Informação
 - ☕ Java  
 - 🍃 Desenvolvedor Back-end Spring
+- Atualmente estudando Java, Spring Framework e tenho vontade de aprender Angular.
 
 ##
 
