@@ -1,7 +1,7 @@
 ## Oi, eu sou o Giordano 🧑🏻
 
 - 🇧🇷
-- 🧑‍🎓 Estudante de Sistemas de Informação
+- 🧑‍🎓 Bacharelado em Sistemas de Informação
 - 🍃 Desenvolvedor Full Stack 
 - ☕ Atualmente estudando Java, Spring e React.  
 
