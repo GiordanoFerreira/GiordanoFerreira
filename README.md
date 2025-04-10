@@ -2,8 +2,8 @@
 
 - 🇧🇷
 - 🧑‍🎓 Bacharelado em Sistemas de Informação
-- 🍃 Desenvolvedor Back-End
-- ☕ Java, Spring.  
+- 🍃 Desenvolvedor Back-End - Java/Spring
+- ☕ Pós-Graduando em Arquitetura e Desenvolvimento Java
 
 ##
 
