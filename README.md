@@ -2,8 +2,8 @@
 
 - 🇧🇷
 - 🧑‍🎓 Bacharelado em Sistemas de Informação
-- 🍃 Desenvolvedor Full Stack 
-- ☕ Atualmente estudando Java, Spring e React.  
+- 🍃 Desenvolvedor Back-End
+- ☕ Java, Spring.  
 
 ##
 
